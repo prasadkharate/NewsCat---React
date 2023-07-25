@@ -1,0 +1,137 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Arrest made in Long Island serial killer case",
+    "description": "Police have been working for over a decade to solve the murders of at least 10 women in Long Island.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-66190844",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/09FE/production/_130385520_87e87674c150452e0bcc11f43ff0d3a842e31bf90_157_3617_20371000x563.jpg",
+    "publishedAt": "2023-07-14T17:22:17.3993739Z",
+    "content": "An arrest has been made in the decade-long unsolved murders of at least 10 women in Long Island, New York.\r\nThe suspect is set to be arraigned Friday after his arrest Thursday night in Manhattan, off… [+1142 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "US heatwave: Over 90 million people under heat advisories",
+    "description": "A blistering heatwave across much of the southwestern US is expected to last well into the weekend.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-66195722",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1FE8/production/_130386180_6644eeb928bdf0dd28c7ae93dc33127fab7c530e0_0_4000_26671000x667.jpg",
+    "publishedAt": "2023-07-14T16:52:22.4144351Z",
+    "content": "A blistering US heatwave is set to intensify, with warnings issued across the southwest up to Washington state. \r\nAround 27 million people across the US will feel temperatures over 110F (43C) in the … [+2928 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "SAG strike live updates: Actors join writers as Hollywood shuts down",
+    "description": "The strike will force the largest shutdown Hollywood has experienced in decades.",
+    "url": "http://www.bbc.co.uk/news/live/world-us-canada-66180350",
+    "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+    "publishedAt": "2023-07-14T15:52:28.4458835Z",
+    "content": "Margot Robbie at the Barbie red carpetImage caption: Margot Robbie at the Barbie red carpet\r\nStars of Barbie and Oppenheimer (hotly anticipated films which are known by millions on social media as 'B… [+1072 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Joe Biden forgives $39 billion in student loan debt",
+    "description": "The relief will help some 800,000 borrowers enrolled in income-driven repayment plans, officials say.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-66205087",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0F76/production/_130385930_gettyimages-1373728382.jpg",
+    "publishedAt": "2023-07-14T15:52:22.6023074Z",
+    "content": "The Biden administration has announced it has forgiven $39bn (£29.7bn) in student loan debt for 804,000 borrowers who have income-driven repayment plans. \r\nThe relief is a result of \"fixes\" the gover… [+2059 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Why are actors so worried about AI?",
+    "description": "The US actors' union says artificial intelligence poses an \"existential threat\" to the profession.",
+    "url": "http://www.bbc.co.uk/news/technology-66200334",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6F20/production/_130384482_gettyimages-1401980646.jpg",
+    "publishedAt": "2023-07-14T13:52:20.0240269Z",
+    "content": "Hollywood actors are striking for the first time in 43 years, bringing the American movie and television business to a halt, partly over fears about the impact of artificial intelligence (AI).\r\nThe s… [+4325 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Europe heatwave: Extreme heat leads to Greece Acropolis closure",
+    "description": "The country's most popular tourist attraction will stay closed between noon and 5pm in the 40C-plus heat.",
+    "url": "http://www.bbc.co.uk/news/world-europe-66202093",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8302/production/_130383533_acc622c557b0b6087b3a2db49ae87ba02f58d702.jpg",
+    "publishedAt": "2023-07-14T13:07:22.0707183Z",
+    "content": "The Acropolis in the Greek capital Athens has been closed during the hottest hours of the day to protect visitors from an intense heatwave gripping the country. \r\nTourists have been barred from enter… [+2704 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Wagner forces no longer significant in Ukraine, US says",
+    "description": "The Pentagon comments come three weeks after the mercenaries' failed mutiny in Russia.",
+    "url": "http://www.bbc.co.uk/news/world-europe-66194549",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/18373/production/_130378199_gettyimages-1259023079.jpg",
+    "publishedAt": "2023-07-14T10:22:20.0078131Z",
+    "content": "Russia's Wagner mercenary group is no longer \"participating in any significant capacity in support of combat operations in Ukraine\", a Pentagon spokesman has said.\r\nIt comes weeks after the group's s… [+4262 chars]"
+    },
+    {
+    
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Officials reveal Lisa Marie Presley cause of death",
+    "description": "The only child of music icon Elvis Presley died after being rushed to a hospital on 12 January.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-66195853",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A52F/production/_130378224_gettyimages-470871450.jpg",
+    "publishedAt": "2023-07-13T23:52:20.868607Z",
+    "content": "Lisa Marie Presley, the only child of rock 'n' roll legend Elvis, died of a bowel obstruction, the Los Angeles County medical examiner's office said Thursday. \r\nPresley, also a singer, died after bei… [+677 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Republican debates: Trump's rivals in need of a game-changer",
+    "description": "Polls show Donald Trump way ahead. Will that change when the 2024 debates begin next month?",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-66195481",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EE31/production/_130377906_gettyimages-1512023414.jpg",
+    "publishedAt": "2023-07-13T22:37:16.8212804Z",
+    "content": "Donald Trump has taken a commanding lead in national opinion polls for the 2024 presidential race. His opponents want to make an impression at the debates and change that status quo.\r\nFirst, each of … [+5168 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Stars leave film premiere as Hollywood strike called",
+    "description": "Stars Cillian Murphy and Emily Blunt leave Oppenheimer premiere as Hollywood actors launch strike that could stall whole industry",
+    "url": "http://www.bbc.co.uk/news/entertainment-arts-66196357",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+    "publishedAt": "2023-07-13T19:22:19.5875567Z",
+    "content": "Stars Cillian Murphy and Emily Blunt leave Oppenheimer premiere as Hollywood actors launch strike that could stall whole industry"
+    }
+    ]
+    }
